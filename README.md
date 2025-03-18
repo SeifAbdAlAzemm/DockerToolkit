@@ -1,4 +1,4 @@
-# Docker Complete Guide
+# 🚀 DockerToolkit
 
 ## Table of Contents
 1. [Introduction to Docker](#introduction-to-docker)
@@ -807,4 +807,18 @@ Think of it like a traffic controller 🚦 that directs data between your CPU, m
 - [Yehia Tech: Docker Practical in 15 mins](https://www.youtube.com/watch?v=TsNUchjn-uI)
 - Docker Deep Dive: Zero to Docker in a single book Kindle Edition by Nigel Poulton (Author) 
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Author
+
+**Seif Abd Al-Azem**
+- 🌐 [GitHub](https://github.com/SeifAbdAlAzemm)
+- 📧 [Email](mailto:seif.abdalazem2001@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/seif-abd-al-azem-a99b061b0/)
+
+---
+
+<p align="center">Made with ❤️ for Docker enthusiasts</p>
 
