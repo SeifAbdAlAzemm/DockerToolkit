@@ -40,6 +40,7 @@
     - [Build and Deployment Best Practices](#build-and-deployment-best-practices)
 11. [Summary & Action Items](#summary--action-items)
 12. [Resources](#resources)
+13. [Recommendations](#Recommendations)
 
 ---
 
@@ -511,30 +512,6 @@ Docker has transformed operations across multiple industries:
 - Continuous Integration/Continuous Deployment (CI/CD) pipelines
 - Local testing of complex systems
 
-**Financial Services**:
-- Isolated environments for security
-- Scalable backend services
-- Consistent deployment across global infrastructure
-- Rapid disaster recovery
-
-**Healthcare**:
-- Isolated environments for sensitive patient data
-- Simplified deployment of complex medical systems
-- Consistent validation environments for regulatory compliance
-- Scaling for research compute needs
-
-**E-commerce**:
-- Easy scaling during peak shopping periods
-- Consistent deployment of microservices
-- A/B testing of features
-- Rapid updates to respond to market conditions
-
-**Education**:
-- Providing consistent environments for students
-- Isolating student projects
-- Simulating production environments
-- Simplifying complex software setup
-
 Companies like Netflix, PayPal, Spotify, and AirBnB use Docker extensively in their infrastructure to improve scalability, consistency, and deployment speed.
 
 ## Docker Commands Reference
@@ -766,6 +743,12 @@ The `-L` flag in the nodemon command enables legacy watch mode, which is often n
    - Use read-only file systems where possible
    - Implement resource limits
 
+### What is the Linux Kernel? 🐧
+
+The Linux kernel is the core of the Linux operating system. It acts as a bridge between hardware and software, managing system resources and ensuring everything runs smoothly.
+
+Think of it like a traffic controller 🚦 that directs data between your CPU, memory, and devices (keyboard, mouse, disk, etc.).
+
 ## Summary & Action Items
 
 ### Key Docker Concepts
@@ -815,3 +798,13 @@ The `-L` flag in the nodemon command enables legacy watch mode, which is often n
 - Docker Hub: https://hub.docker.com/
 - Docker Curriculum: https://docker-curriculum.com/
 - Play with Docker: https://labs.play-with-docker.com/
+
+## Recommendations
+
+- [Net Ninja Docker Crash Course](https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7&index=1)
+- [NetworkChunk: you need to learn Docker RIGHT NOW!!](https://www.youtube.com/watch?v=eGz9DS-aIeY)
+- Docker Deep Dive: Zero to Docker in a single book Kindle Edition by Nigel Poulton (Author) 
+- [Yehia Tech: Why We use Docker](https://www.youtube.com/watch?v=8Zi_8-9f7xk)
+- [Yehia Tech: Docker Practical in 15 mins](https://www.youtube.com/watch?v=TsNUchjn-uI)
+
+
