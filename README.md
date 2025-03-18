@@ -803,8 +803,8 @@ Think of it like a traffic controller 🚦 that directs data between your CPU, m
 
 - [Net Ninja Docker Crash Course](https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7&index=1)
 - [NetworkChunk: you need to learn Docker RIGHT NOW!!](https://www.youtube.com/watch?v=eGz9DS-aIeY)
-- Docker Deep Dive: Zero to Docker in a single book Kindle Edition by Nigel Poulton (Author) 
 - [Yehia Tech: Why We use Docker](https://www.youtube.com/watch?v=8Zi_8-9f7xk)
 - [Yehia Tech: Docker Practical in 15 mins](https://www.youtube.com/watch?v=TsNUchjn-uI)
+- Docker Deep Dive: Zero to Docker in a single book Kindle Edition by Nigel Poulton (Author) 
 
 
